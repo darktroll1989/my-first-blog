@@ -26,7 +26,7 @@ SECRET_KEY = '00of!n0l!52l_v-j8f@gtr1^ws$-(r%k=*h@3@xpbg=iv)wt$l'
 DEBUG = True
 
 #ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', 'darktroll1989.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'darktroll1989.pythonanywhere.com', '234234.egeb.com']
 
 
 # Application definition
